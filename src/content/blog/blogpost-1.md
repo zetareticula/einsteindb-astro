@@ -1,5 +1,5 @@
 ---
-title: Blogpost 1
+title: Relative Causal Consistency in Distributed Systems with Memory.
 pubDate: 11/09/2022 14:25
 author: "Elian Van Cutsem"
 tags:
@@ -7,7 +7,7 @@ tags:
   - Astro
   - UnoCSS
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: EinsteinDB is a cutting-edge, relativistic linearizable database that revolutionizes data storage and retrieval. Built with Rust and go, it combines the power of distributed systems with the simplicity of a single-node FoundationDB database.
 layout: '../../layouts/BlogPost.astro'
 ---
 
