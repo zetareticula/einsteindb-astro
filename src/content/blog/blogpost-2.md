@@ -1,5 +1,5 @@
 ---
-title: Blogpost 2
+title: EinsteinDB as an Append-log In-Memory distributed store.
 pubDate: 12/31/2022 12:05
 author: "Elian Van Cutsem"
 tags:
@@ -7,7 +7,7 @@ tags:
   - WebDev
   - Programming
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description:
 layout: '../../layouts/BlogPost.astro'
 ---
 
