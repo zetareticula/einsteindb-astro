@@ -1,21 +1,23 @@
 ---
-title: Blogpost 6
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+title: Zeta Reticula and IPFS
+description: EinsteinDB is a pure data-driven model that can be
+used for different AI4DB tasks such as query answering or cardinal-
+ity estimation. This data-driven model also supports ad-hoc
+queries and updates of the data without the need of full re-
+training when the workload or data changes. 
 pubDate: 2023-02-21 00:13
 author: Elian Van Cutsem
 tags:
-  - TypeScript
-  - Astro
-  - Web Development
+  - Rust
+  - Golang
+  - Kubernetes
 imgUrl: '../../assets/astro.jpeg'
 layout: ../../layouts/BlogPost.astro
 ---
 
-## Deorum petiit ignis
+## EinsteinDB and stateless hash functions
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+EinsteinDB’s revolutionary stateless hash function encodes a new method of storing data within the database system. This hash function eliminates the need for maintaining state information, resulting in a more efficient and streamlined approach to data storage. By utilizing this innovative technique, EinsteinDB enhances the performance and scalability of its database system, enabling faster data retrieval and processing. Additionally, the stateless hash function ensures data integrity and security, providing a robust foundation for enterprises to manage their data effectively. With this groundbreaking development, EinsteinDB sets a new standard in the field of database technologies, empowering businesses with an advanced and efficient data storage solution.
 
 ## Iovis late orbem Perseus sunt
 
